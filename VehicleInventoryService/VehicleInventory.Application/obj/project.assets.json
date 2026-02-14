@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "VehicleInventory.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/VehicleInventory.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VehicleInventory.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "VehicleInventory.Domain/1.0.0": {
+      "type": "project",
+      "path": "../VehicleInventory.Domain/VehicleInventory.Domain.csproj",
+      "msbuildProject": "../VehicleInventory.Domain/VehicleInventory.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "VehicleInventory.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\aryan\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Domain\\VehicleInventory.Domain.csproj": {
+              "projectPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Domain\\VehicleInventory.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

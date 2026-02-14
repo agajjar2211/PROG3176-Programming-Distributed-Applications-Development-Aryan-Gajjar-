@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{259EF956-7AFA-C60B-F753-C2D881D0B3C6}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.domain\\vehicleinventory.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{259EF956-7AFA-C60B-F753-C2D881D0B3C6}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|solutionrelative:vehicleinventory.domain\\vehicleinventory.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleInventory.Domain",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Domain\\VehicleInventory.Domain.csproj",
+              "RelativeDocumentMoniker": "VehicleInventory.Domain\\VehicleInventory.Domain.csproj",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Domain\\VehicleInventory.Domain.csproj",
+              "RelativeToolTip": "VehicleInventory.Domain\\VehicleInventory.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T18:09:55.287Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ACa1ZQds2U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

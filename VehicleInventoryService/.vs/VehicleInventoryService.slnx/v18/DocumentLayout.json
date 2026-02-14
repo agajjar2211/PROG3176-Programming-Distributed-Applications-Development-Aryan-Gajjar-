@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.application\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.application\\excceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\excceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.application\\dtos\\vehicleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\dtos\\vehicleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.application\\excceptions\\conflictexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\excceptions\\conflictexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.application\\dtos\\updatevehiclestatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\dtos\\updatevehiclestatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.application\\dtos\\createvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\dtos\\createvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.application\\vehicleinventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBEDE16F-947E-34C8-FCBA-CC351E57ADE4}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\vehicleinventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{259EF956-7AFA-C60B-F753-C2D881D0B3C6}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog3176-programming-distributed-applications-development-aryan-gajjar-\\vehicleinventoryservice\\vehicleinventory.domain\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{259EF956-7AFA-C60B-F753-C2D881D0B3C6}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|solutionrelative:vehicleinventory.domain\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +67,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\Services\\VehicleService.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:19:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:18:43.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\Excceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\Excceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\Excceptions\\NotFoundException.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\Excceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:18:32.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConflictExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\Excceptions\\ConflictExceptions.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\Excceptions\\ConflictExceptions.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\Excceptions\\ConflictExceptions.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\Excceptions\\ConflictExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:18:15.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\DTOs\\VehicleResponse.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\DTOs\\VehicleResponse.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\DTOs\\VehicleResponse.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\DTOs\\VehicleResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:17:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateVehicleStatusRequest.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:17:23.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateVehicleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\DTOs\\CreateVehicleRequest.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\DTOs\\CreateVehicleRequest.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\DTOs\\CreateVehicleRequest.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\DTOs\\CreateVehicleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:17:02.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleInventory.Application",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\VehicleInventory.Application.csproj",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\VehicleInventory.Application.csproj",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Application\\VehicleInventory.Application.csproj",
+              "RelativeToolTip": "VehicleInventory.Application\\VehicleInventory.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T18:14:44.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DomainExceptions.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Domain\\Exceptions\\DomainExceptions.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Exceptions\\DomainExceptions.cs",
@@ -47,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "VehicleStatus.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Domain\\Enums\\VehicleStatus.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Enums\\VehicleStatus.cs",
@@ -55,12 +191,11 @@
               "RelativeToolTip": "VehicleInventory.Domain\\Enums\\VehicleStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T18:13:13.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:13:13.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
@@ -68,12 +203,11 @@
               "RelativeToolTip": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T18:12:56.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:12:56.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "VehicleInventory.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG3176-Programming-Distributed-Applications-Development-Aryan-Gajjar-\\VehicleInventoryService\\VehicleInventory.Domain\\VehicleInventory.Domain.csproj",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\VehicleInventory.Domain.csproj",

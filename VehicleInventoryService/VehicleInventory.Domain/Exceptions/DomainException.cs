@@ -4,7 +4,8 @@ using System.Text;
 
 namespace VehicleInventory.Domain.Exceptions
 {
-    internal class DomainExceptions
+    public class DomainException : Exception
     {
+        public DomainException(string message) : base(message) { }
     }
 }

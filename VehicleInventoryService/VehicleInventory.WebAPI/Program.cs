@@ -1,41 +1,53 @@
+using VehicleInventory.Application.Services;
+using VehicleInventory.Infrastructure.DependencyInjection;
+using VehicleInventory.Domain.Exceptions;
+using VehicleInventory.Application.Exceptions;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+// Controllers (because your template might be minimal API)
+builder.Services.AddControllers();
+
+// Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// DI
+builder.Services.AddInfrastructure(builder.Configuration);
+builder.Services.AddScoped<VehicleService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+// simple global exception handling
+app.Use(async (context, next) =>
 {
-    app.MapOpenApi();
-}
+    try
+    {
+        await next();
+    }
+    catch (NotFoundException ex)
+    {
+        context.Response.StatusCode = 404;
+        await context.Response.WriteAsJsonAsync(new { error = ex.Message });
+    }
+    catch (ConflictException ex)
+    {
+        context.Response.StatusCode = 409;
+        await context.Response.WriteAsJsonAsync(new { error = ex.Message });
+    }
+    catch (DomainException ex)
+    {
+        context.Response.StatusCode = 400;
+        await context.Response.WriteAsJsonAsync(new { error = ex.Message });
+    }
+});
 
+// Swagger
+app.UseSwagger();
+app.UseSwaggerUI();
+app.MapGet("/", () => Results.Redirect("/swagger"));
 app.UseHttpsRedirection();
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
+app.MapControllers();
 
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

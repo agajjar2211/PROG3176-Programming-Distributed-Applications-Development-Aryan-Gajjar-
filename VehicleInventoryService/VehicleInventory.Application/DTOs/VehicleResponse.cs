@@ -1,10 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using VehicleInventory.Domain.Enums;
 
-namespace VehicleInventory.Application.DTOs
+namespace VehicleInventory.Application.DTOs;
+
+public class VehicleResponse
 {
-    internal class VehicleResponse
-    {
-    }
+    public int Id { get; set; }
+    public string VehicleCode { get; set; } = default!;
+    public string LocationId { get; set; } = default!;
+    public string VehicleType { get; set; } = default!;
+    public VehicleStatus Status { get; set; }
 }
